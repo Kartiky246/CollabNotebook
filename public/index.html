@@ -44,7 +44,7 @@
         const url = new URL(currentUrl);
         const queryParams = url.searchParams;
         const roomId = queryParams.get("roomId");
-        let socket = io.connect("https://collab-tshn.onrender.com/10000",{ query: `roomId=${roomId}` });
+        let socket = io.connect("https://collab-tshn.onrender.com/",{ query: `roomId=${roomId}` });
     </script>
     <script src="./tools.js"></script>
     <script src="./canvas.js"></script>
