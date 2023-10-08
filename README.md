@@ -1,3 +1,3 @@
 # CollabNotebook
- CollabNotebook is a user-friendly web app in which users can draw, share images with drag and drop funcitionality, add notes in real-time with others in a shared virtual room.
+ CollabNotebook is a user-friendly web app in which users can draw, share images with drag and drop functionality, add notes in real-time with others in a shared virtual room.
  Users can easily download the live notebook to keep the track of the shared work
